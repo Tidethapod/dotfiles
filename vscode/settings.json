@@ -1,6 +1,6 @@
 {
   "explorer.confirmDelete": false,
-  "files.autoSave": "afterDelay",
+  "files.autoSave": "onWindowChange",
 
   "editor.fontSize": 14,
   "editor.tabSize": 2,

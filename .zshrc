@@ -136,4 +136,6 @@ function gitRmCached(){
 }
 alias zs="code ~/.zshrc"
 alias sz="source ~/.zshrc"
-alias ll="ls -la"
+alias ll="ls -la"eval "$(/opt/homebrew/bin/brew shellenv)"
+eval "$(/opt/homebrew/bin/brew shellenv)"
+eval "$(/opt/homebrew/bin/brew shellenv)"
